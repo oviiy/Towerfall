@@ -3,6 +3,7 @@ A single-player roguelike tower defense game
 
 # Link: 
 [▶ Play Towerfall](https://oviiy.github.io/Towerfall/main.html)
+[▶ Play Towerfall V2](https://oviiy.github.io/Towerfall/v2.html)
 
 # Prompt
 Build a single-player roguelike tower defense game as ONE self-contained file: `index.html`. It must run by double-clicking the file in any modern browser — no build step, no server, no external assets, no dependencies (CDN allowed only if absolutely necessary; prefer pure vanilla).
