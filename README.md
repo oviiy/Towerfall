@@ -2,9 +2,11 @@
 A single-player roguelike tower defense game
 
 # Link: 
-[▶ Play Towerfall](https://oviiy.github.io/Towerfall/main.html)
+[▶ Play Towerfall V1](https://oviiy.github.io/Towerfall/main.html)
 
 [▶ Play Towerfall V2](https://oviiy.github.io/Towerfall/v2.html)
+
+[▶ Play Towerfall V3](https://oviiy.github.io/Towerfall/v3.html)
 
 [▶ Play Cyber](https://oviiy.github.io/Towerfall/Cyber.html)
 
